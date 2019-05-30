@@ -4,7 +4,8 @@
 ### Disclaimer
 
 This material is not intended to be a full course on machine, deep learning, or neural networks, and is meant to introduce basic Pytorch functionality based on a number of examples.
-Pre-requisites are:
+Pre-requisites are:   
+
 - Basic Linear Algebra
 - Experience with Python Programming and the scientific python stack (Numpy, Matplotlib, ...) is recommended.
 - Some familiarity with Neural Networks, Optimization, Convolutional Neural Networks and their concepts.
